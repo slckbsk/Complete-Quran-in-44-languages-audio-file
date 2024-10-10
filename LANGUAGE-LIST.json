@@ -2,612 +2,612 @@
 		"location": "https://archive.org/download/sefihuom/json/ALBANIAN.json",
 		"name": "ALBANIAN-1",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ALBANIAN-CUZ.json",
 		"name": "ALBANIAN-2",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ALBANIAN-CUZ2.json",
 		"name": "ALBANIAN-3",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ARABIC.json",
 		"name": "ARABIC-1",
 		"arabic": "Only Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ARABIC2.json",
 		"name": "ARABIC-2",
 		"arabic": "Only Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ARABIC3.json",
 		"name": "ARABIC-3",
 		"arabic": "Only Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ARABIC4.json",
 		"name": "ARABIC-4",
 		"arabic": "Only Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ARABIC5.json",
 		"name": "ARABIC-5",
 		"arabic": "Only Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/AZERBAIJANI-A.json",
 		"name": "AZERBAIJANI-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/AZERBAIJANI-CUZ.json",
 		"name": "AZERBAIJANI-2",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/AZERBAIJANI-CUZ2.json",
 		"name": "AZERBAIJANI-3",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/AZERBAIJANI-CUZ3.json",
 		"name": "AZERBAIJANI-4",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BENGALI.json",
 		"name": "BENGALI-1",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BENGALI-A.json",
 		"name": "BENGALI-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BENGALI-A2.json",
 		"name": "BENGALI-3",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BENGALI-A3.json",
 		"name": "BENGALI-4",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BOSNIAN-A.json",
 		"name": "BOSNIAN-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BOSNIAN-CUZ.json",
 		"name": "BOSNIAN-2",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BOSNIAN-A1.json",
 		"name": "BOSNIAN-3",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BOSNIAN.json",
 		"name": "BOSNIAN-4",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/BRAZIL-A.json",
 		"name": "BRAZIL",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/CHINESE-A.json",
 		"name": "CHINESE-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/CHINESE-A2.json",
 		"name": "CHINESE-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/CHINESE-A3.json",
 		"name": "CHINESE-3",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/CHINESE.json",
 		"name": "CHINESE-4",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/DARI-CUZ-A.json",
 		"name": "DARI",
 		"arabic": "With Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ENGLISH-A.json",
 		"name": "ENGLISH-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ENGLISH-A2.json",
 		"name": "ENGLISH-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ENGLISH-A3.json",
 		"name": "ENGLISH-3",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/ENGLISH-CUZ.json",
 		"name": "ENGLISH-4",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/FRENCH-A.json",
 		"name": "FRENCH-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/FRENCH.json",
 		"name": "FRENCH-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/GERMAN-A.json",
 		"name": "GERMAN-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/GERMAN-A2.json",
 		"name": "GERMAN-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/GERMAN.json",
 		"name": "GERMAN-3",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/GREEK-CUZ.json",
 		"name": "GREEK",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/GUJARATI-A.json",
 		"name": "GUJARATI-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/GUJARATI-CUZ-A.json",
 		"name": "GUJARATI-2",
 		"arabic": "With Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/HINDI-A.json",
 		"name": "HINDI-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/HINDI-A2.json",
 		"name": "HINDI-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/HINDI.json",
 		"name": "HINDI-3",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/INDONESIA-A.json",
 		"name": "INDONESIA",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/IRFAN-A.json",
 		"name": "IRFAN",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/KANNADA-A.json",
 		"name": "KANNADA",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/KASHMIRI.json",
 		"name": "KASHMIRI",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/KOREAN-A.json",
 		"name": "KOREAN-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/KOREAN.json",
 		"name": "KOREAN-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/KURDISH-A.json",
 		"name": "KURDISH-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/KURDISH-A2.json",
 		"name": "KURDISH-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/KURDISH-CUZ.json",
 		"name": "KURDISH-3",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/MALAYALAM-A.json",
 		"name": "MALAYALAM-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/MALAYALAM.json",
 		"name": "MALAYALAM-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/MARANAO-CUZ.json",
 		"name": "MARANAO-1",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/MARANAO.json",
 		"name": "MARANAO-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/MARATI-CUZ-A.json",
 		"name": "MARATI-1",
 		"arabic": "With Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/MARATI-CUZ.json",
 		"name": "MARATI-2",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/MELAYU-A.json",
 		"name": "MELAYU",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/OROMIGNA-A.json",
 		"name": "OROMIGNA",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/PASHTO-A.json",
 		"name": "PASHTO-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/PASHTO-A2.json",
 		"name": "PASHTO-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/PERSIAN.json",
 		"name": "PERSIAN",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/PORTUGUESE-A.json",
 		"name": "PORTUGUESE",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/PUNJABI.json",
 		"name": "PUNJABI-1",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/PUNJABI-A.json",
 		"name": "PUNJABI-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/RUSSIAN-A.json",
 		"name": "RUSSIAN-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/RUSSIAN-A2.json",
 		"name": "RUSSIAN-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/RUSSIAN-A3.json",
 		"name": "RUSSIAN-3",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/RUSSIAN.json",
 		"name": "RUSSIAN-4",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SARAIKI-A.json",
 		"name": "SARAIKI",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SINDI-A.json",
 		"name": "SINDI",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SINHALA-A.json",
 		"name": "SINHALA-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SINHALA.json",
 		"name": "SINHALA-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SOMALI-CUZ.json",
 		"name": "SOMALI",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SPANISH-A.json",
 		"name": "SPANISH-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SPANISH-A2.json",
 		"name": "SPANISH-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SPANISH-CUZ.json",
 		"name": "SPANISH-3",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SPANISH.json",
 		"name": "SPANISH-4",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SWAHILI-A.json",
 		"name": "SWAHILI-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SWAHILI.json",
 		"name": "SWAHILI-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/SWEDISH-A.json",
 		"name": "SWEDISH",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TAGALOG-CUZ.json",
 		"name": "TAGALOG",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TAMAZIGHT.json",
 		"name": "TAMAZIGHT",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TAMIL-A.json",
 		"name": "TAMIL-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TAMIL-A2.json",
 		"name": "TAMIL-2",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TAMIL-A3.json",
 		"name": "TAMIL-3",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TAMIL.json",
 		"name": "TAMIL-4",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TELUGU-A.json",
 		"name": "TELUGU-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TELUGU.json",
 		"name": "TELUGU-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/THAI-A.json",
 		"name": "THAI-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/THAI.json",
 		"name": "THAI-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TURKISH-A.json",
 		"name": "TURKISH-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TURKISH-CUZ.json",
 		"name": "TURKISH-2",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TURKISH-CUZ2.json",
 		"name": "TURKISH-3",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/TURKISH.json",
 		"name": "TURKISH-4",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/URDU-A.json",
 		"name": "URDU-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/URDU-CUZ-A.json",
 		"name": "URDU-2",
 		"arabic": "With Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/URDU.json",
 		"name": "URDU-3",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/UYGHUR-A.json",
 		"name": "UYGHUR-1",
 		"arabic": "With Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/UYGHUR.json",
 		"name": "UYGHUR-2",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/UZBEK.json",
 		"name": "UZBEK-1",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/UZBEK-CUZ.json",
 		"name": "UZBEK-2",
 		"arabic": "Without Arabic",
-		"type": "30 Juz"
+		"english": "30 Juz"
 	},
 	{
 		"location": "https://archive.org/download/sefihuom/json/VIETNAMESE.json",
 		"name": "VIETNAMESE",
 		"arabic": "Without Arabic",
-		"type": "114 Sura"
+		"english": "114 Sura"
 	}
 ]
